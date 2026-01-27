@@ -1,6 +1,5 @@
 # 23 mars 2024
-# Aqel, Hamza / Beddah, Hatim
-# matricules: 20111814 / 20304762
+# Aqel, Hamza 
 
 # Le but de ce programme est de partir d’un brin d’ADN pour arriver aux 
 # protéines codées par les gènes contenus dans ce brin d’ADN
