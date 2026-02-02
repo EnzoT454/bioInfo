@@ -27,7 +27,7 @@ Le programme affiche les protéines trouvées et les **dessine sous forme de gri
 Depuis la racine du projet :
 
 ```bash
-python3 bioInfo.py
+python3 bioInforma.py
 ```
 
 ## Résultat attendu
