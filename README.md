@@ -20,7 +20,7 @@ Le programme affiche les protéines trouvées et les **dessine sous forme de gri
 - Module Turtle (généralement inclus avec Python)
 
 > Le programme utilise des fonctions Turtle comme `fd`, `lt`, `rt`, `pu`, `pd`, `write`, `clear`.  
-> Selon ton environnement, il peut être nécessaire d’ajouter `from turtle import *` au début du fichier si ce n’est pas déjà fait.
+
 
 ## Exécution
 
