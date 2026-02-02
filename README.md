@@ -36,7 +36,6 @@ python3 bioInfo.py
 
 Les protéines codées par les gènes contenus dans ce brin d’ADN sont :
 
-
 Puis une liste de protéines, par exemple :
 
 Méthionine (Start)-Leucine-Isoleucine
